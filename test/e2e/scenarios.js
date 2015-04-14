@@ -21,7 +21,6 @@ describe('phonecatApp', function() {
       expect(phoneList.count()).toBe(2);
     });
 
-
   });
 
 
